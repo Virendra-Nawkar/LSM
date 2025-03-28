@@ -1,0 +1,1 @@
+This Course Management Dashboard, built with React, Redux Toolkit, and ShadCN, allows students to purchase and access courses securely, mark them complete/incomplete, and edit profiles. Instructors can create, edit, and delete courses/lectures, track revenue and enrollments, and manage published courses. Secure route protection ensures only authorized access.
